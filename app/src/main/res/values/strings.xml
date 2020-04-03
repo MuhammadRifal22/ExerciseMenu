@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">20180140121-Muhammad Rifal</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btnin">Sign-In</string>
+    <string name="hsl">Ini Tampilan Hasil</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="masukan_username">Masukan Username</string>
+    <string name="labelapp1">Form Registrasi</string>
+    <string name="nm">Nama</string>
+    <string name="msnm">Masukan Nama</string>
+    <string name="alm">Alamat</string>
+    <string name="notelp">No. Telp</string>
+    <string name="btn">Daftar</string>
+    <string name="masukan_alamat">Masukan Alamat</string>
+    <string name="masukan_notelp">Masukan No. Telp</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_3">Menu 3</string>
+</resources>

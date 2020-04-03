@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFCC</color>
+    <color name="colorPrimaryDark">#A3503DBD</color>
+    <color name="colorAccent">#673AB7</color>
+    <color name="label">#070707</color>
+    <color name="judul">#2F4F4F</color>
+    <color name="txt">#2F4F4F</color>
+    <color name="btn">#FFA500</color>
+    <color name="colorPrimary1">#FFFFCC</color>
+    <color name="colorPrimaryDark1">#FDFDFD</color>
+    <color name="colorAccent1">#D81B60</color>
+    <color name="label1">#FF3333</color>
+    <color name="judul1">#2F4F4F</color>
+    <color name="txt1">#373A3C</color>
+    <color name="btn1">#FFA500</color>
+</resources>
